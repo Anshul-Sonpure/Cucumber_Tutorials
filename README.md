@@ -1,7 +1,8 @@
 
 # Cucumber_Tutorials
 
-Hi All This a Cucumber project for those who want to learn Cucumber and performs some hands-ons.
+Hi All,\
+This a Cucumber project for those who want to learn Cucumber and performs some hands-ons.
 Feel free to clone the repo and make changes as per your learning/requirements.
 This is a maven based project so all you need to do is clone the project in your IDE and\
 run -- `mvn clean install`.
