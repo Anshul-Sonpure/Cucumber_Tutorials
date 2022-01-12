@@ -19,8 +19,8 @@ Cucumber includes the following three files:\
 2. Stepdef file: Once the Feature file is ready, each sentence of the Feature file can be further implemented over the Stepdef file.
 3. Runner File: This is just to execute the actual test script written over the Stepdef file by referring to the feature file. Apart from that, it has many other options for customization, reporting, selective execution, etc.\
 
-In our project I have created 6 Feature files to make understand of concept.In the feature file I've mentioned what concept we are going to implement and test.\
-However just for update in using this project I tried to make clear concepts.
+In our project I have created 6 Feature files based on few **Cucumber** concept.In the feature file I've mentioned what concept we are going to implement and test.\
+However just for update in this project I have tried to make clear concepts like.
 - Login.feature --> implements the concept of Background.
 - RegisterUser.feature --> implements the concept of DataTables
 - Scenario_Outline.feature --> implements the concept of Scenario Outline and Example keyboard.
@@ -30,9 +30,9 @@ However just for update in using this project I tried to make clear concepts.
 
 **Note:** If you clone this repo and run it you will notice browser is getting opened twice and that is because we have used Hooks and also we have implemented the concept of inheritence where we called driver from DriverUtils package.This is because I dont want to implement everything in a single file 🤭. Rest everything is fine and working. 
 
-Thank You
-Happy Coding,
-Learn,Code and Earn
+Thank You\
+Happy Coding,\
+Learn,Code and Earn\
 Stay Safe and Stay Positive :)
 
 
