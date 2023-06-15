@@ -1,4 +1,3 @@
-
 # Cucumber_Tutorials
 
 Hi All,\
@@ -28,7 +27,8 @@ However just for update in this project I have tried to make clear concepts like
 - Hooks.feature --> implements the concept of Hooks where we have used @Before and @After
 - Tags.feature --> implements the concept of Tags @smoke,@regression and @prodfix
 
-**Note:** If you clone this repo and run it you will notice browser is getting opened twice and that is because we have used Hooks and also we have implemented the concept of inheritence where we called driver from DriverUtils package.This is because I dont want to implement everything in a single file 🤭. Rest everything is fine and working. 
+**Note:** If you clone this repo and run it you will notice browser is getting opened twice and that is because we have used Hooks and also we have implemented the concept of inheritence where we called driver from DriverUtils package.This is because I dont want to implement everything in a single file 🤭. Rest everything is fine and working.\
+Also sharing my book on Cucumber and PPT's from my course.
 
 Thank You\
 Happy Coding,\
